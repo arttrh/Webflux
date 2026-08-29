@@ -1,4 +1,4 @@
-Estudando webflux e sobre programação reativaUsei mongoDB, 
+Estudando webflux e sobre programação reativa usei mongoDB, 
 docker claro (Não queria instalar o software) 
 subi um container,
 nesse repo trabalhei com Handler e Route para saber como funciona a questão dos endpoints,
